@@ -33,8 +33,8 @@ Water bills increased significantly after a new tenant moved in. Needed a way to
 
 ## Files
 
-timelapse.py - this python script takes a picture every 30 minutes and saves it to the SD card
-copy_pics.ps1 - this powershell script copies the images taken since the previous download to a laptop
-read_meters_Claude.py - this Python script optically reads the analog water meter and puts the entry into a Google Sheet
+- timelapse.py - this python script takes a picture every 30 minutes and saves it to the SD card
+- copy_pics.ps1 - this powershell script copies the images taken since the previous download to a laptop
+- read_meters_Claude.py - this Python script optically reads the analog water meter and puts the entry into a Google Sheet
 
 
